@@ -1,0 +1,1 @@
+C:\VSProjects\CsharpIntermediate\Testability.UnitTests\obj\Debug\Testability.UnitTests.csprojResolveAssemblyReference.cache

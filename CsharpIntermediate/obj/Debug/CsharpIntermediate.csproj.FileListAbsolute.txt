@@ -1,0 +1,8 @@
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\bin\Debug\CsharpIntermediate.exe.config
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\bin\Debug\CsharpIntermediate.exe
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\bin\Debug\CsharpIntermediate.pdb
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\obj\Debug\CsharpIntermediate.csprojResolveAssemblyReference.cache
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\obj\Debug\CsharpIntermediate.exe
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\obj\Debug\CsharpIntermediate.pdb
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\bin\Debug\Amazon.dll
+C:\VSProjects\CsharpIntermediate\CsharpIntermediate\bin\Debug\Amazon.pdb
